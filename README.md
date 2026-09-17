@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm **Shagoto Sarkar**
 
-### 💻 CSE Student | 🤖 Aspiring AI Engineer | 🇧🇩 Bangladesh
+### 💻 CSE Student · 🤖 Aspiring AI Engineer · 🔬 AI Research Enthusiast · 🇧🇩 Bangladesh
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+AI+Engineer;Exploring+Neurosymbolic+AI;Building+Reliable+AI+Systems;Learning+How+Things+Actually+Work" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=shagoto-sarkar&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -12,10 +12,10 @@
 
 <p>
   <a href="https://github.com/shagoto-sarkar">
-    <img src="https://img.shields.io/github/followers/shagoto-sarkar?label=Followers&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/shagoto-sarkar?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/AI-Enthusiast-blueviolet?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/AI-Research-blueviolet?style=for-the-badge&logo=openai" alt="AI Research"/>
+  <img src="https://img.shields.io/badge/Linux-Development-black?style=for-the-badge&logo=linux" alt="Linux Development"/>
 </p>
 
 </div>
@@ -24,14 +24,21 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science & Engineering student at **Daffodil International University**
+🎓 **Computer Science & Engineering student** at **Daffodil International University**
 
-🤖 Aspiring **AI Engineer** passionate about Machine Learning, Deep Learning, and Generative AI.
+🤖 Aspiring **AI Engineer** with a growing focus on **Machine Learning, Deep Learning, Generative AI, and reliable AI systems**.
 
-NOw,
-🧠 Exploring Neurosymbolic AI and reliable AI reasoning
-🔬 Working toward research in AI + symbolic reasoning + information acquisition
-🐧 Developing primarily on Linux, with a preference for understanding and controlling my development environment
+🧠 Currently exploring **Neurosymbolic AI** — combining neural learning with symbolic reasoning to build systems that can reason more reliably and transparently.
+
+🔬 Interested in research at the intersection of **AI reasoning, information acquisition, symbolic verification, and trustworthy intelligent systems**.
+
+💻 I enjoy understanding systems **from the inside out** rather than relying on abstractions I don't understand.
+
+🐧 **Linux is my primary development environment**, and I enjoy building, configuring, and controlling my own tools and workflow.
+
+🛠️ Currently building projects, strengthening my software engineering foundations, and turning theoretical concepts into things that actually work.
+
+> **Learn deeply. Build deliberately. Question everything.**
 
 
 🌱 **Currently Learning**
