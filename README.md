@@ -28,6 +28,12 @@
 
 🤖 Aspiring **AI Engineer** passionate about Machine Learning, Deep Learning, and Generative AI.
 
+NOw,
+🧠 Exploring Neurosymbolic AI and reliable AI reasoning
+🔬 Working toward research in AI + symbolic reasoning + information acquisition
+🐧 Developing primarily on Linux, with a preference for understanding and controlling my development environment
+
+
 🌱 **Currently Learning**
 - 🐍 Python
 - 🧠 Machine Learning
@@ -110,16 +116,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shagoto-sarkar&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</p>
-
----
-
 # 📌 Featured Projects
 
 🔹 Add your best repositories here.
@@ -151,7 +147,7 @@
 
 ---
 
-# ☕ Support Me
+# ☕ Buy me a Coffee ☕
 
 <p align="center">
 
